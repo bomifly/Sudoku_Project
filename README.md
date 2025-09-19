@@ -32,5 +32,4 @@
 
 ```bash
 python main.py
-'''
 

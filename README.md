@@ -26,10 +26,5 @@
 
 ---
 
-## 🚀 시작하는 법 (Getting Started)
 
-프로젝트를 실행하려면 다음 명령어를 입력하세요:
-
-```bash
-python main.py
 

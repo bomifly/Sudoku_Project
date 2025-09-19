@@ -21,15 +21,15 @@
 
 1.  **저장소 복제 (Clone the repository):**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone git@github.com:bomifly/Sudoku_Project.git
     ```
 2.  **프로젝트 디렉터리로 이동 (Navigate to the directory):**
     ```bash
-    cd your-repository-name
+    cd Sudoku_Progect/new_game
     ```
 3.  **게임 실행 (Run the game):**
     ```bash
-    python guess_the_number.py
+    python new_game_logic.py
     ```
 
 ---
